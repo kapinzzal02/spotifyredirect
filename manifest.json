@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Spotify URL Redirector",
+    "version": "1.0",
+    "description": "Redirects Spotify web URLs to the desktop app.",
+    "permissions": [
+      "activeTab",
+      "storage",
+      "tabs"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
