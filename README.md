@@ -1,4 +1,4 @@
-### A no-nonsense way of redirecting Spotify links to open in the Desktop app instead of the god-awful Web Player.
+## A no-nonsense way of redirecting Spotify links to open in the Desktop app instead of the god-awful Web Player.
 
 ## Installation
 
